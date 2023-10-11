@@ -1,1 +1,1 @@
-alert("index.js");
+(()=>{"use strict";document.querySelector(".js-content").innerHTML=`It's ${(new Date).toGMTString()}`})();
