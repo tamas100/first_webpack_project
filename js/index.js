@@ -3,6 +3,7 @@ import '../styles/styles.css';
 import $ from 'jquery';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import 'bootstrap';
+import '../index.html';
 
 $(document).ready(() => {
 
