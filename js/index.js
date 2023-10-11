@@ -1,4 +1,5 @@
 import getDateString from "./date";
+import '../styles/styles.css';
 
 document
     .querySelector('.js-content')
