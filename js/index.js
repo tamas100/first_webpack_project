@@ -14,6 +14,6 @@ $(document).ready(() => {
     $('.js-modal').modal({
         show: true,
         keyboard: true
-    });;
+    });
 
 });
